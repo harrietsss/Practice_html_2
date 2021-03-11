@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>List Practice</title>
+</head>
+<body>
+  <h1>My First Website</h1>
+  <h1>My Favorite Fruit</h2>
+  <ol>
+    <li>apples</li>
+    <li>orange</li>
+    <li>pinaapple</li>
+  </ol>
+  <table border="5" cellpadding="38" cellspacing="3">
+    <tr>
+      <th>Month</th>
+      <th>Rent</th>
+    </th>
+    <tr>
+      <td>May</td>
+      <td>$1500</td>
+    </tr>
+  </body>
+</html>
