@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>International Media Company Rank</title>
+</head>
+<body>
+  <h1 style="border-style:solid;border-color:grey;">Data</h1>
+  <h2>International Media Company Rank</h2>
+  <ol>
+    <li>Apple</li>
+    <li>Amazon</li>
+    <li>Google</li>
+    <li>Facebook</li>
+    <li>Alibaba</li>
+    <li>Tencent</li>
+    <li>Verizon</li>
+  </ol>
+  <table border="5" cellpadding="30" cellspacing="3">
+    <caption>国家传媒巨头市值排行(单位：亿美元)</caption>
+    <tr>
+      <th>Company</th>
+      <th>Market Value</th>
+    </tr>
+
+    <tr>
+      <td>Apple</td>
+      <td>13000</td>
+    </tr>
+    <tr>
+      <td>Amazon</td>
+      <td>11700</td>
+    </tr>
+    <tr>
+      <td>Google</td>
+      <td>9196.94</td>
+    </tr>
+  </body>
+</html>
