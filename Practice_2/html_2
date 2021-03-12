@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>My First Website</h1>
-  <h1>My Favorite Fruit</h2>
+  <h2>My Favorite Fruit</h2>
   <ol>
     <li>apples</li>
     <li>orange</li>
